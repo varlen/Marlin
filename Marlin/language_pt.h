@@ -14,7 +14,7 @@
 #define MSG_MAIN                            " Menu principal \003"
 #define MSG_AUTOSTART                       "Autostart"
 #define MSG_DISABLE_STEPPERS                " Parar motores"
-#define MSG_AUTO_HOME                       "Ir para origen"
+#define MSG_AUTO_HOME                       "Ir para origem"
 #define MSG_SET_HOME_OFFSETS                "def. orig. offset"
 #define MSG_SET_ORIGIN                      "Estabelecer orig."
 #define MSG_PREHEAT_PLA                     "Pre-aquecer PLA"
